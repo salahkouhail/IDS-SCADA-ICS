@@ -3,7 +3,7 @@
 Système de détection d'intrusion combinant Machine Learning et IA Générative
 pour la détection et l'explication d'anomalies sur le protocole Modbus.
 
-**Projet de Fin d'Études** — Groupe OCP, Complexe de Jorf Lasfar (2025/2026)
+**Projet de Stage** — Groupe OCP, Complexe de Jorf Lasfar (2025/2026)
 
 ## ⚠️ Avertissement
 
