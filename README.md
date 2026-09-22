@@ -67,7 +67,7 @@ streamlit run dashboard/dashboard.py
 
 ## 👤 Auteur
 
-**Salah-Eddine Kouhail** — Informatique et Réseaux, option Cybersécurité et Infrastructures Réseaux
+**Salah-Eddine Kouhail** — Informatique et Réseaux, option Cybersécurité et Infrastructures Réseaux — 
 École Marocaine des Sciences de l'Ingénieur (EMSI)
 
 [LinkedIn](https://www.linkedin.com/in/salah-eddine-kouhail-64126328a/)
