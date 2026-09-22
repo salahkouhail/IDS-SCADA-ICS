@@ -20,8 +20,7 @@ explicite. L'auteur décline toute responsabilité en cas d'usage détourné.
 3. **Capture** : Wireshark, pymodbus
 4. **Détection** : Random Forest (scikit-learn) — 100% accuracy
 5. **Explication** : Ollama (llama3.2, local)
-6. **Supervision** : Dashboard Streamlit (style SOC)
-
+6. **Supervision** : Dashboard Streamlit 
 ## 📊 Résultats
 
 - 3 432 requêtes collectées (508 normales, 2 924 malveillantes)
@@ -37,7 +36,6 @@ Docker · Python · pymodbus · scikit-learn · Ollama · Streamlit · Wireshark
 
 Pour reproduire l'ensemble du pipeline (Conpot, attaques, entraînement, IA générative) :
 
-\`\`\`bash
 # 1. Environnement de simulation
 docker pull honeynet/conpot
 docker run -d --name conpot_ics -p 502:5020 -p 161:161/udp honeynet/conpot
